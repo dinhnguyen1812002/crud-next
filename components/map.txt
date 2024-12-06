@@ -1,0 +1,6 @@
+- User: 
+    authentication, authorization: jwt
+    xác thực người dùng theo cá nhân hoặc doanh nghiệp
+- Liên kết ngân hàng:
+    Dùng Api hoặc SDK của các ngân hàng 
+    
